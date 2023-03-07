@@ -1,4 +1,8 @@
 This is a small activity to practice git.
 I made some changes in this file.
 I created feature branch.
-I made some more changes.
+
+
+=======
+I created conflict branch.
+>>>>>>> conflict-branch
